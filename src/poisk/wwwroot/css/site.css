@@ -36,3 +36,41 @@ textarea {
     display: none
   }
 }
+
+
+
+/*          MY STUFF    */
+.one-box {background:#0079BF;box-sizing:border-box;width:100%;padding:10px}
+.two-box {background:#FFAA4A;box-sizing:border-box;width:100%;padding:10px}
+.three-box {background:#89B209;box-sizing:border-box;width:100%;padding:10px}
+.four-box {background:#42548E;box-sizing:border-box;width:100%;padding:10px}
+.five-box {background:#7FBA00;box-sizing:border-box;width:100%;padding:10px}
+.six-box {background:#EB5A46;box-sizing:border-box;width:100%;padding:10px}
+
+
+
+li.projects {
+    list-style-type: none;
+    padding-top: 25px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.header{
+    background-color: #FFF8DC
+}
+
+img.projectImage {
+    height: 200px;
+    border: 1px solid #c3c3c3;
+}
+
+.currentProject {
+    color: green;
+}
+
+.completedProject {
+    color: red;
+}

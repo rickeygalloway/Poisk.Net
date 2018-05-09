@@ -59,12 +59,7 @@ h5 {
 }
 
 .header{
-    background-color: #FFF8DC
-}
-
-img.projectImage {
-    height: 200px;
-    border: 1px solid #c3c3c3;
+    /*background-color: #FFF8DC*/
 }
 
 .currentProject {
@@ -73,4 +68,17 @@ img.projectImage {
 
 .completedProject {
     color: red;
+}
+
+.intro {
+    text-align: justify;
+}
+
+.projectNotes {
+    list-style-type: disc;
+    
+}
+.pic {
+    width: 200px;
+    box-shadow: 10px 10px 5px silver;
 }
